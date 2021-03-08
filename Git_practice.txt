@@ -2,10 +2,7 @@ Hello world...!
 This is a text file
 This is new line
 This is another line
-<<<<<<< HEAD
-Change in local repo
-=======
 change in central repo
->>>>>>> a6e29b9df61e2eaf1510f6964c9a02a3d550c48c
+
 
 we are in new branch
